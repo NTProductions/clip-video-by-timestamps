@@ -10,5 +10,5 @@
 3) Start
 
 ### Limitations
--Only supports times under an hour in the format MM:SS<br>
+-Only supports times/names under an hour in the format "<TITLE>- MM:SS"<br>
 -Exports all video to desktop
