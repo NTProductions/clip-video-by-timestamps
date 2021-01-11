@@ -10,4 +10,5 @@
 3) Start
 
 ### Limitations
-Currently supports times under an hour in the format MM:SS
+-Only supports times under an hour in the format MM:SS<br>
+-Exports all video to desktop
